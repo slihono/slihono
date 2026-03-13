@@ -1,12 +1,19 @@
-<img src="https://img.shields.io/badge/Python-pixel?style=for-the-badge">
+<img src="https://img.shields.io/badge/Spinner-roover-yellow?style=for-the-badge">
+
 Hi, I'm Seneve 👋
 
 🎓 Computer Science student in the United States
 
  🌹 Currently learning:
-Python|html|css|MicroPython, and a little javascript 
+<img src="https://img.shields.io/badge/Python-pixel?style=for-the-badge&logo=python&logoColor=yellow">
+<img src="https://img.shields.io/badge/HTML-pixel?style=for-the-badge&logo=html5&logoColor=orange">
+<img src="https://img.shields.io/badge/CSS-pixel?style=for-the-badge&logo=css3&logoColor=blue">
+<img src="https://img.shields.io/badge/MicroPython-pixel?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/a little javascript -pixel?style=for-the-badge">
 
-🔌 Interested in embedded systems, electronics and AI
+
+🔌 Interested in:
+embedded systems | electronics | AI
 
 🧠 Always learning new technologies and improving my coding skills
 
