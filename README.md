@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Python-pixel?style=for-the-badge">
-## Hi, I'm Seneve 👋
+Hi, I'm Seneve 👋
 
 🎓 Computer Science student in the United States
 
