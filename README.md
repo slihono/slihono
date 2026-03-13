@@ -21,6 +21,8 @@ embedded systems | electronics | AI
 - 🤔 I’m looking for help with a mentorship, and an internship
 - 💬 Ask me about new rechnologies and Ai and if i'm able, i'll be glad to answer
 - 📫 How to reach me: conect with me on https://github.com/slihono
+
+  or by my email: splihono2@ualr.edu
 - 😄 Pronouns: he/him
 - ⚡ fact: i'm a quick practice learner, i like writing, sports,...
   
