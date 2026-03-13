@@ -15,5 +15,6 @@ Python|html|css|MicroPython, and a little javascript
 - 💬 Ask me about new rechnologies and Ai and if i'm able, i'll be glad to answer
 - 📫 How to reach me: conect with me on https://github.com/slihono
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm a quick practice learner
--->
+- ⚡ fact: i'm a quick practice learner, i like writing, sports,...
+  
+😁-->
